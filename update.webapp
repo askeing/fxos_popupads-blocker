@@ -1,0 +1,8 @@
+{
+  "name": "Back Button",
+  "description": "Add back button (and show window button) to the software home button bar (Based on Michael Henretty's work)",
+  "developer": {
+    "name": "Shing Lyu"
+  },
+  "package_path": "new-package.zip"
+}
