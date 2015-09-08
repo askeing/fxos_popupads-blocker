@@ -1,4 +1,4 @@
-# Pop-up Ads Blocker
-(A Firefox OS Add-on)
+# Popup Ads Blocker
+(Firefox OS Add-on)
 
-
+Block the popup Ads of website. 
