@@ -15,3 +15,12 @@ if (window.location.toString().indexOf('http://www.ettoday.net/') >= 0) {
     ad.parentNode.removeChild(ad);
   }, 1000)
 }
+
+if (window.location.toString().indexOf('https://www.ptt.cc/ask/over18') >= 0) {
+  console.log('PTT ask over18');
+  window.onload = function () {
+    var yesBtn = document.querySelector(".btn-big[name='yes']");
+    console.log(yesBtn);
+    yesBtn.click();
+  }
+}
