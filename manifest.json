@@ -1,9 +1,9 @@
 {
   "manifest_version":2,
-  "name": "Back Button",
-  "description": "Add back button (and show window button) to the software home button bar (Based on Michael Henretty's work)",
-  "version": "1.1",
-  "author": "Shing Lyu",
+  "name": "Pop-up Ad Blocker",
+  "description": "Blocks pop-up ads on Firefox OS",
+  "version": "1.0",
+  "author": "Askeing Yen & Shing Lyu",
   "content_scripts": [{
     "matches": ["*://system.gaiamobile.org/*"],
     "css": [],

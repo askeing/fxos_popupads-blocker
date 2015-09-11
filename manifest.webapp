@@ -2,7 +2,7 @@
   "name": "Pop-up Ad Blocker",
   "description": "Blocks pop-up ads on Firefox OS",
   "developer": {
-    "name": "Shing Lyu"
+    "name": "Askeing Yen & Shing Lyu"
   },
   "package_path": "package.zip",
   "role": "addon",
