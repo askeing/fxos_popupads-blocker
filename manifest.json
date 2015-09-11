@@ -7,7 +7,7 @@
   "content_scripts": [{
     "matches": ["*://system.gaiamobile.org/*"],
     "css": [],
-    "js": ["backbutton.js"]
+    "js": ["block.js"]
   }],
   "icons": {
     "128": "icons/icon.png"
