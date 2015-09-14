@@ -1,8 +1,8 @@
 {
-  "name": "Back Button",
-  "description": "Add back button (and show window button) to the software home button bar (Based on Michael Henretty's work)",
+  "name": "Pop-up Ad Blocker",
+  "description": "Blocks pop-up ads on Firefox OS",
   "developer": {
-    "name": "Shing Lyu"
+    "name": "Askeing Yen & Shing Lyu"
   },
   "package_path": "new-package.zip"
 }
